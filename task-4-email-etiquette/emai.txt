@@ -1,0 +1,32 @@
+E-mail-1
+Subject- Request for Extension on Assignment Submission
+Dear Sir/Madam,
+I hope you are doing well.
+I am writing to request a short extension for the submission of the assignment provided yesterday in the classroom,
+which is currently due on 30th March 12:00AM. Due to an emergency in my family I will have to head back home, 
+I have been unable to complete the assignment to the best of my ability within the given time.
+I sincerely value the quality of my work and would like to request an extension until 2nd of March so that I
+can submit a more complete and well-prepared assignment.
+I apologize for any inconvenience this may cause and assure you that I am making every effort to complete the work 
+as soon as possible. I would be very grateful for your consideration.
+Thank you for your time and understanding.
+Yours sincerely,
+Vihaan Agrawal
+Btech CSE (core) 25BCE10694
+
+
+E-mail-2
+Subject- Application for Summer Internship Opportunity
+Dear Sir/Madam,
+I hope this message finds you in the best of health and spirits. I am writing this letter to express my interest 
+in a summer internship program with your esteemed organization.
+I am a student currently pursuing a degree in Artificial Intelligence and Machine Learning, and I wish to apply my
+knowledge in a real-time environment. I have hands-on experience with technologies like Python, web development tools, 
+and machine learning basics. I am highly motivated to learn, contribute, and grow with hands-on experience.
+I would be highly grateful if you could consider me for an internship position in your esteemed organization. 
+Please let me know whether there are any available positions in your organization or whether you require any additional
+information from me, like my resume or portfolio.
+Thank you for your time and consideration.
+
+Sincerely,
+Vihaan Agrawal
