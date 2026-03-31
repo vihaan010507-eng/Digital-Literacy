@@ -1,4 +1,4 @@
-# 📘 Digital Literacy Project – Overview
+#  Digital Literacy Project – Overview
 
 ##  Introduction
 This project focuses on understanding the importance of digital literacy and responsible online behavior in today’s digital world. It highlights how individuals, especially students, can use online tools effectively while staying safe from cyber threats.
