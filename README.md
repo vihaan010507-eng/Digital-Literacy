@@ -1,15 +1,15 @@
 # 📘 Digital Literacy Project – Overview
 
-## 📌 Introduction
+##  Introduction
 This project focuses on understanding the importance of digital literacy and responsible online behavior in today’s digital world. It highlights how individuals, especially students, can use online tools effectively while staying safe from cyber threats.
 
-## 🎯 Objectives
+##  Objectives
 - To spread awareness about digital literacy  
 - To understand safe and responsible use of online platforms  
 - To learn about cybercrimes and their prevention  
 - To explore useful digital tools for learning and collaboration  
 
-## 🧩 Project Components
+##  Project Components
 This project consists of the following tasks:
 
 ### 1. Digital Platforms for Growth
@@ -35,12 +35,12 @@ Compiled a checklist for safe online practices, including UPI and financial safe
 - Markdown (README files)  
 - Online research resources  
 
-## 📚 Key Learnings
+##  Key Learnings
 - Importance of digital awareness and cybersecurity  
 - Safe online practices and responsible behavior  
 - Effective communication in digital environments  
 - Use of digital tools for academic and professional growth  
 Google form link:
 https://docs.google.com/forms/d/e/1FAIpQLSfxz3vokxX0YVpvIRFNqNmPlGY5SvzvAVjrpXMAQbgFrlp_Jw/viewform?usp=publish-editor
-## 🚀 Conclusion
+##  Conclusion
 This project enhanced my understanding of digital literacy and helped me develop practical skills for using online platforms safely and effectively. It has made me more aware, responsible, and confident in the digital space.
